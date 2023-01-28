@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Vinicius🥰
+## Bem-vindo(a) ao perfil do Vine🥰
 
  <div>
    <a href="https://github.com/ViniciusSalviano">
