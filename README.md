@@ -1,12 +1,18 @@
-# Olá, eu sou o Vinicius! 👋
+<div align="center">
+  <h1>Olá, eu sou o Vinicius! 👋</h1>
+  <p>Desenvolvedor em formação focado em criar soluções práticas e aprender novas tecnologias todos os dias.</p>
+  <p>Atualmente cursando <b>Análise e Desenvolvimento de Sistemas</b> na <b>Fatec Franca</b>.</p>
+</div>
 
-Desenvolvedor em formação focado em criar soluções práticas e aprender novas tecnologias todos os dias. Atualmente cursando Análise e Desenvolvimento de Sistemas.
+<hr>
 
 ### 🛠️ Tecnologias e Ferramentas
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" height="40" width="40" />&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="Js" height="40" width="40" />&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" height="40" width="40" />&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" height="40" width="40" />&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" height="40" width="40" />
-</div>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,js,html,css,git" />
+  </a>
+</p>
 
 ### 📊 Estatísticas do GitHub
 
@@ -17,13 +23,21 @@ Desenvolvedor em formação focado em criar soluções práticas e aprender nova
 
 ### 🐍 Contribuições
 
-![Animação de cobra](https://github.com/ViniciusSalviano/ViniciusSalviano/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ViniciusSalviano/ViniciusSalviano/blob/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/ViniciusSalviano/ViniciusSalviano/blob/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution grid snake animation" src="https://github.com/ViniciusSalviano/ViniciusSalviano/blob/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
 ### 📫 Vamos nos conectar?
 
 <p align="left">
-  <a href="https://instagram.com/Vinicius_Salviano_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>&nbsp;
-  <a href="https://www.linkedin.com/in/vinicius-salviano/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/vinicius-salviano/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://instagram.com/Vinicius_Salviano_" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
 </p>
