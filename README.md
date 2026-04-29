@@ -1,8 +1,6 @@
-<div align="center">
-  <h1>Olá, eu sou o Vinicius! 👋</h1>
-  <p>Desenvolvedor em formação focado em criar soluções práticas e aprender novas tecnologias todos os dias.</p>
-  <p>Atualmente cursando <b>Análise e Desenvolvimento de Sistemas</b> na <b>Fatec Franca</b>.</p>
-</div>
+# Olá, eu sou o Vinicius! 👋
+
+Desenvolvedor em formação focado em criar soluções práticas e aprender novas tecnologias todos os dias. Atualmente cursando Análise e Desenvolvimento de Sistemas.
 
 <hr>
 
@@ -23,11 +21,9 @@
 
 ### 🐍 Contribuições
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ViniciusSalviano/ViniciusSalviano/blob/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/ViniciusSalviano/ViniciusSalviano/blob/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution grid snake animation" src="https://github.com/ViniciusSalviano/ViniciusSalviano/blob/output/github-contribution-grid-snake.svg">
-</picture>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/ViniciusSalviano/ViniciusSalviano/output/github-contribution-grid-snake.svg" alt="Animação de cobra" />
+</p>
 
 ---
 
