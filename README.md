@@ -22,7 +22,7 @@ Desenvolvedor em formação focado em criar soluções práticas e aprender nova
 ### 🐍 Contribuições
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/ViniciusSalviano/ViniciusSalviano/output/github-contribution-grid-snake.svg" alt="Animação de cobra" />
+  <img src="https://raw.githubusercontent.com/ViniciusSalviano/ViniciusSalviano/output/github-contribution-grid-snake-dark.svg" alt="Animação de cobra" />
 </p>
 
 ---
