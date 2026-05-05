@@ -1,6 +1,6 @@
 # Olá, eu sou o Vinicius! 👋
 
-Desenvolvedor em formação focado em criar soluções práticas e aprender novas tecnologias todos os dias. Atualmente cursando Análise e Desenvolvimento de Sistemas.
+Desenvolvedor em formação focado em criar e aprender novas tecnologias todos os dias. Atualmente cursando Análise e Desenvolvimento de Sistemas na Fatec Franca.
 
 <hr>
 
@@ -10,13 +10,6 @@ Desenvolvedor em formação focado em criar soluções práticas e aprender nova
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,js,html,css,git" />
   </a>
-</p>
-
-### 📊 Estatísticas do GitHub
-
-<p align="left">
-  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ViniciusSalviano&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ViniciusSalviano&layout=compact&langs_count=7&theme=dracula" />
 </p>
 
 ### 🐍 Contribuições
