@@ -20,7 +20,7 @@ Desenvolvedor em formação focado em criar e aprender novas tecnologias todos o
 
 ---
 
-### 📫 Vamos nos conectar?
+### 📫 Redes sociais
 
 <p align="left">
   <a href="https://www.linkedin.com/in/vinicius-salviano/" target="_blank">
